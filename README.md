@@ -19,4 +19,4 @@
 ## Menu Exit
 # ![img](img/9.jpg)
 
-### Terima Kasih.
+### Terima Kasih
